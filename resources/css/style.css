@@ -1,1 +1,22 @@
-ECHO is on.
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+.header {
+    color: white;
+}
+
+.top-header {
+    font-size: 3.125rem;
+}
+
+a.download-excursion{
+    font-size: 1rem;
+    color: aquamarine;
+}
