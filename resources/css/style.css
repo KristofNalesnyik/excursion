@@ -14,9 +14,28 @@ body {
 
 .top-header {
     font-size: 3.125rem;
+    font-weight: normal;
+}
+
+.lower-header{
+    font-size: 2.625rem;
+    font-weight: 300;
 }
 
 a.download-excursion{
     font-size: 1rem;
     color: aquamarine;
+}
+
+p.gray{
+ font-size: 1.3125rem;
+ color: gray;
+}
+
+img{
+    padding: 10px 0;
+}
+
+footer{
+    text-align: right;
 }
